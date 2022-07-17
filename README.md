@@ -7,7 +7,7 @@ Remembering all those usernames and passwords is kind of a difficult task... for
 
 ******
 This was my first _"big"_ Python project. <br> 
-It was good practice for writing conditional logic and getting input from users. <br> 
+It was a good practice for writing conditional logic and getting input from users. <br> 
 Also, for this project, I had to learn how to register users, encrypt/decrypt passwords, as well as, basic SQL.
 
 
